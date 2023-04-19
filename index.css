@@ -1,0 +1,12 @@
+.main{
+    margin:auto;
+    width:60%;
+    padding:10px;
+    text-align:center;
+    font-size:80px;
+    color:red;
+    padding-top:250px;
+}
+body{
+  background:linear-gradient(to right,rgb(255, 151, 54),rgb(190, 178, 178),rgb(54, 233, 54));
+}
